@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Word temporary files
+~$*
+
+# Power BI autosave and cache
+*.pbi/
+*.pbix.tmp

@@ -1,0 +1,4 @@
+Total revenue (INR): 71671747
+Total orders: 100600
+Average order value (INR): 663
+Overall cancellation rate (%): 14.2

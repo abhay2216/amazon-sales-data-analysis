@@ -1,0 +1,14 @@
+Status,count
+Shipped - Damaged,1
+Shipped - Lost in Transit,5
+Shipping,8
+Shipped - Rejected by Buyer,11
+Shipped - Out for Delivery,35
+Shipped - Returning to Seller,145
+Pending - Waiting for Pick Up,281
+Pending,658
+Shipped - Picked Up,973
+Shipped - Returned to Seller,1954
+Cancelled,18334
+Shipped - Delivered to Buyer,28756
+Shipped,77815
