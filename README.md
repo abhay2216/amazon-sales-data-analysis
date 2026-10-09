@@ -1,6 +1,6 @@
 # Amazon Sales Data Analysis
 
-A data analysis project on Amazon.in sales data (31 March to 29 June 2022), completed as **Project 78G0OL** of a Data Analyst internship. It uses Python for cleaning and analysis, and Power BI for an interactive dashboard.
+A data analysis project on Amazon Sales data, completed as **Project 78G0OL**. It uses Python for cleaning and analysis, and Power BI for an interactive dashboard.
 
 ## What the project does
 
